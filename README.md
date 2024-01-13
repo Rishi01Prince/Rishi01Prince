@@ -18,6 +18,12 @@
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi01prince) 
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-rishi01prince-ff69b4?style=flat&logo=leetcode)](https://leetcode.com/rishi01prince/)
+[![CodeChef Profile](https://img.shields.io/badge/CodeChef-rishi01raj-brightgreen?style=flat&logo=codechef)](https://www.codechef.com/users/rishi01raj)
+[![Codeforces Profile](https://img.shields.io/badge/Codeforces-Rishi01Raj-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Rishi01Raj)
+
+
+
 
 
 # 💻 Tech Stack:
