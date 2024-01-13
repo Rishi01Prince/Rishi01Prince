@@ -1,9 +1,13 @@
-### Hi there 👋
+
 
 <!--
 **Rishi01Prince/Rishi01Prince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 -->
+<!-- <h1 align="center">Hi 👋, I'm Rishi Raj</h1> -->
+<h1 align="center">Hi, welcome<img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30" /></h1>
+<h2> I'm Rishi! <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h2>
+
 # 💫 About Me:
 👋 Hello there! I'm Rishi Raj, a passionate and driven Computer Science and Engineering student at Lovely Professional University.<br> I am current working on JavaScript , React and Node
 
