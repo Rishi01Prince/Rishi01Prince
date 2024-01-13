@@ -16,18 +16,43 @@
 - 👯 I’m looking to collaborate on Full Stack Web Development Pojects
 - 📄 Know about my experiences(CV) :- [Rishi_CV.pdf](https://github.com/Rishi01Prince/Rishi01Prince/files/13927915/Rishi_CV.pdf)
 
-## 🌐 Socials:
+## 🌐 Socials and Coding Profiles:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi01prince) 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-rishi01prince-ff69b4?style=flat&logo=leetcode)](https://leetcode.com/rishi01prince/)
 [![CodeChef Profile](https://img.shields.io/badge/CodeChef-rishi01raj-brightgreen?style=flat&logo=codechef)](https://www.codechef.com/users/rishi01raj)
 [![Codeforces Profile](https://img.shields.io/badge/Codeforces-Rishi01Raj-blue?style=flat&logo=codeforces)](https://codeforces.com/profile/Rishi01Raj)
 
 
+## 📚 Tech Stack
+<br> <br>
+<table align="center" style="background-color: white;">
+      <tr align="center">
+            <td colspan="5"> <b>Programming/Scripting languages</b> 
+                 <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,java,html,css,js">
+      </tr>
+      <tr align="center"> 
+            <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,vue,express,&perline=3"></td>
+            <td><b>Web frameworks</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=django,flask,rails,nodejs,&perline=3"></td>
+            <td> <b>Databases</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=mysql,sqlite,mongodb,redis,neo4j,es,&perline=4"></td>
+            <td> <b>DevOps</b><br><br><img src="https://icons-theta.vercel.app/icons?i=jenkins,docker,podman,&perline=2"></td>
+      </tr>
+      <tr align="center"> 
+            <td> <b>Data Analysis tools</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=excel,splunk"> </td>
+            <td> <b>Machine Learning</b><br><br><img src="https://icons-theta.vercel.app/icons?i=tensorflow,pytorch"> </td>
+            <td> <b>Operating systems</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=linux,apple"></td>
+            <td> <b>Cloud Storage</b><br><br><img src="https://icons-theta.vercel.app/icons?i=aws"></td>
+      </tr>
+      <tr align="center">
+            <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,postman,influx"></td>
+            <td> <b>Version control</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=git"></td>
+            <td> <b>Graphic designing</b><br><br><img src="https://icons-theta.vercel.app/icons?i=gimp,ink,blender"> </td>
+            <td> <b>Game development</b><br><br><img src="https://icons-theta.vercel.app/icons?i=unity"> </td>
+      </tr>
+</table>
 
 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 
 ### ✍️ Random Dev Quote
