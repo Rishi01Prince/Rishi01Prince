@@ -35,19 +35,16 @@
                  <br><br> <img src="https://icons-theta.vercel.app/icons?i=python,bash,cpp,c,java,html,css,js">
       </tr>
       <tr align="center"> 
-            <td><b>Frontend technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=bootstrap,jquery,express,&perline=3"></td>
-            <td><b>Web frameworks</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=nodejs,&perline=3"></td>
+            <td><b>Frontend Technologies</b><br><br><img src="https://icons-theta.vercel.app/icons?i=react,html,css,javascript,bootstrap,jquery,&perline=3"></td>
+            <td><b>Backend Technologies</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=javascript,nodejs,express,&perline=3"></td>
             <td> <b>Databases</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=mysql,sqlite,mongodb,&perline=4"></td>
-            <td> <b>DevOps</b><br><br><img src="https://icons-theta.vercel.app/icons?i=jenkins &perline=2"></td>
       </tr>
       <tr align="center"> 
-            <td> <b>Automation</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=pytest"> </td>
-            <td> <b>Full Stack Web Developement</b><br><br><img src="https://icons-theta.vercel.app/icons?i=tensorflow,pytorch"> </td>
-            <td> <b>Operating systems</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=linux,apple"></td>
+            <td> <b>Automation</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=jenkins,pytest,appium,&perline=2"> </td>
+            <td> <b>Operating systems</b><br><br><br><br> <img src="https://icons-theta.vercel.app/icons?i=linux,apple,windows"></td>
             <td> <b>Cloud Storage</b><br><br><img src="https://icons-theta.vercel.app/icons?i=aws"></td>
       </tr>
       <tr align="center">
-            <td> <b>Monitoring</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=kafka,postman,influx"></td>
             <td> <b>Version control</b><br><br> <img src="https://icons-theta.vercel.app/icons?i=git"></td>
             <td> <b>Graphic designing</b><br><br><img src="https://icons-theta.vercel.app/icons?i=gimp,photoshop,blender"> </td>
             <td> <b>Game development</b><br><br><img src="https://icons-theta.vercel.app/icons?i=unity"> </td>
