@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning React , Node JS 
 - 🔭 I’m currently working on React Js  , Node Js , Automation
-- 💬 Ask me about **DSA ,Javascript ,React.js , Node.js , MongoDB**
+- 💬 Ask me about **DSA ,C++ ,Javascript ,React.js , Node.js , MongoDB**
 - 📫 How to reach me **rishi01prince@gmail.com**
 - 👯 I’m looking to collaborate on Full Stack Web Development Pojects
 - 📄 Know about my experiences(CV) :- [Rishi_CV.pdf](https://github.com/Rishi01Prince/Rishi01Prince/files/13927915/Rishi_CV.pdf)
