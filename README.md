@@ -9,7 +9,7 @@
 <h2> I'm Rishi! <img src="https://emojis.slackmojis.com/emojis/images/1563480763/5999/meow_party.gif?1563480763" width="30" height="30"></h2>
 
 # 💫 About Me:
-👋 Hello there! I'm Rishi Raj, a passionate and driven Computer Science and Engineering student at Lovely Professional University.<br> I am current working on JavaScript , React and Node
+👋 Hello there! I'm Rishi Raj, a passionate and driven Computer Science and Engineering student at Lovely Professional University.<br> I am current working on JavaScript , React, Express and Node
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rishi01Prince" alt="Rishi01Prince" /></a> </p>
 
