@@ -18,7 +18,9 @@
 - 💬 Ask me about **DSA ,C++ ,Javascript ,React.js , Node.js , MongoDB**
 - 📫 How to reach me **rishi01prince@gmail.com**
 - 👯 I’m looking to collaborate on Full Stack Web Development Pojects
-- 📄 Know about my experiences(CV) :- [Rishi_SDE_CV.pdf](https://github.com/Rishi01Prince/Rishi01Prince/files/14547133/Rishi_SDE_CV.pdf)
+- 📄 Know about my experiences(CV) :- [Rishi_p.pdf](https://github.com/user-attachments/files/18174361/Rishi_p.pdf)
+
+
 
 
 ## 🌐 Socials and Coding Profiles:
